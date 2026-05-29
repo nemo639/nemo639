@@ -1,12 +1,142 @@
+<h1 align="center">Hi, I'm Muhammad Naeem 👋</h1>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nemo639&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nemo639&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nemo639&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <b>AI/ML Engineer · GenAI & LLM Systems · Multimodal AI Researcher</b><br/>
+  CS Graduate (Class of 2026) · FAST-NUCES · Data Science & AI Specialization · Dean's Honor List
+</p>
+
+<p align="center">
+  <a href="mailto:naeemubeen639@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/naeaeaem"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@naeemubeen639"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nemo639&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### About
+
+I build production-ready AI systems that don't just work — they're **explainable**.
+
+My focus is the intersection of **multimodal deep learning**, **explainable AI (XAI)**, and **clinical machine learning**. I'm equally comfortable implementing diffusion models and ViT-MAEs from base PyTorch as I am building hybrid RAG pipelines, fine-tuning vision-language models with QLoRA, or deploying full ML stacks on cloud infrastructure.
+
+I default to agentic coding workflows (Claude Code, Cursor) and ship working v1s fast, then iterate on what actually breaks in real use.
+
+---
+
+### 🚀 Featured Projects
+
+#### 🧠 [NeuroVerse — Multimodal Explainable AI for Neurodegenerative Disease Screening](https://github.com/nemo639) <sub>*(Final Year Thesis)*</sub>
+
+A smartphone-based platform that turns an ordinary phone into a non-invasive screening tool for Alzheimer's and Parkinson's diseases. Fuses speech, cognitive, motor, and facial biomarkers across **five trained deep learning models** with **seven complementary XAI methods** (SHAP, LIME, GradCAM, Integrated Gradients, Counterfactuals, Attention Visualization, Clinical Interpretation) and a **confidence-weighted Bayesian fusion engine**.
+
+- Clock Drawing Test classifier (EfficientNet-B0, 16,926 images): **93% accuracy** on 6-class Shulman scoring
+- Spiral PD classifier: **95.5% accuracy, AUC 0.955**
+- Meander PD classifier: **91.4% accuracy, AUC 0.971**
+- Speech AD risk regression (35 acoustic features, 4,804 samples): **MAE 0.14**
+- Stack: PyTorch · Flutter · FastAPI · PostgreSQL/Supabase · Google Cloud Run · Next.js
+- **165 automated tests, 100% pass rate** (backend, ML/XAI, mobile, end-to-end)
+
+#### 🔍 [Clinical RAG on MIMIC-IV (DiReCT)](https://github.com/nemo639)
+
+Hybrid retrieval-augmented generation pipeline over 50,000+ MIMIC-IV-Ext clinical records.
+
+- Hybrid retrieval: **BM25 (sparse) + dense FAISS embeddings**
+- Generation: Groq LLaMA 3.3 via LangChain
+- **89% precision@5** across 200+ RAGAS-evaluated queries (faithfulness + answer relevancy)
+- Deployed Streamlit frontend · [Medium write-up](https://medium.com/@naeemubeen639)
+
+#### 📄 [Qwen2-VL Fine-Tuning with QLoRA for Document-to-Markdown](https://github.com/nemo639)
+
+Fine-tuned **Qwen2-VL-2B-Instruct** on the Nougat document dataset for structured image-to-Markdown generation.
+
+- **4-bit NF4 quantization**, frozen base weights, LoRA adapters (rank 8–16)
+- ChatML-formatted image-text pairs, gradient accumulation on Kaggle T4×2
+- Real-time inference via Gradio app
+
+#### ⚙️ [LLM Fine-Tuning Suite: BERT · GPT-2 · T5 across Three Architectures](https://github.com/nemo639)
+
+Three-architecture transformer fine-tuning study with **LoRA/PEFT** on **4-GPU PyTorch DDP**.
+
+- BERT (encoder-only): 3-class sentiment classification
+- GPT-2 (decoder-only): pseudo-code → Python on SPoC
+- T5 (encoder-decoder): summarization on CNN/DailyMail
+- **~90% reduction in trainable parameters** vs full fine-tuning
+- Evaluated with BLEU, CodeBLEU, ROUGE-1/2/L, F1
+
+#### 🎨 [Generative Models from Base PyTorch — DDPM, MAE, GANs](https://github.com/nemo639)
+
+Three generative paradigms implemented from base PyTorch with no pre-trained pipelines.
+
+- **DDPM**: Full diffusion pipeline (forward/reverse, sinusoidal time embeddings, residual U-Net 64→128→256) on CelebA-HQ, FFHQ, WikiArt at 128×128 and 256×256
+- **MAE**: Asymmetric Transformer (ViT-Base encoder + ViT-Small decoder) reconstructing 75% masked patches on TinyImageNet 224×224
+- **GANs**: DCGAN baseline + WGAN-GP (critic, λ=10 gradient penalty) — comparative mode collapse study
+
+#### 🌐 [Urdu Conversational Transformer (From Scratch)](https://github.com/nemo639)
+
+Transformer encoder-decoder built from base PyTorch for low-resource Urdu conversational generation. Preceded by a BiLSTM Urdu-to-Roman Urdu transliteration system on urdu_ghazals_rekhta. Evaluated with BLEU, ROUGE-L, chrF, perplexity.
+
+---
+
+### 🛠️ Tech Stack
+
+**Machine Learning & Deep Learning**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**LLMs · RAG · Vision-Language Models**  
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![LoRA](https://img.shields.io/badge/LoRA%2FQLoRA-7C3AED?style=flat-square)
+![PEFT](https://img.shields.io/badge/PEFT-FF6F61?style=flat-square)
+![RAGAS](https://img.shields.io/badge/RAGAS-2EAD33?style=flat-square)
+
+**Generative & Multimodal**  
+![Diffusion](https://img.shields.io/badge/DDPM%2FDiffusion-9333EA?style=flat-square)
+![ViT](https://img.shields.io/badge/Vision%20Transformers-1E40AF?style=flat-square)
+![GANs](https://img.shields.io/badge/GANs%20%7C%20WGAN--GP-DC2626?style=flat-square)
+![Qwen2-VL](https://img.shields.io/badge/Qwen2--VL-6366F1?style=flat-square)
+
+**Engineering & Deployment**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**Mobile · Cloud · Demos**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nemo639&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemo639&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+---
+
+### ✍️ Writing
+
+I publish technical writing on Medium covering retrieval-augmented generation, transformer fine-tuning with PEFT, Urdu NLP, and cloud-distributed Hadoop infrastructure.
+
+📖 [medium.com/@naeemubeen639](https://medium.com/@naeemubeen639)
+
+---
+
+### 📫 Reach Me
+
+I'm available for **AI Engineer / ML Engineer / Applied AI roles** (remote-first or hybrid) and open to research collaborations.
+
+📧 **naeemubeen639@gmail.com**  
+🔗 [LinkedIn](https://linkedin.com/in/naeaeaem) · [Medium](https://medium.com/@naeemubeen639)
